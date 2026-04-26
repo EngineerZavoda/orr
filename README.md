@@ -1,4 +1,4 @@
-# OpenRouter Free Models Scanner
+# OpenRouter Request Scanner
 
 ## Простой Python-инструмент для поиска и тестирования бесплатных моделей OpenRouter.
 
