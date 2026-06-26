@@ -6,3 +6,5 @@ venv/
 .pytest_cache/
 .coverage
 htmlcov/
+.gitignore
+.DS_Store
