@@ -8,3 +8,5 @@ venv/
 htmlcov/
 .gitignore
 .DS_Store
+.github
+/tests
